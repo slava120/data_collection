@@ -1,0 +1,1 @@
+{ "api_host": "api.yelp.com", "search_endpoint": "/v2/search", "business_endpoint": "/v2/business", "default_search_results": "10", "consumer_key": "N-8Ns-q8S-xWWHUDf1iL8Q", "consumer_secret": "wAyaSyYBOeN6s718tV7n2KUv19I", "token": "8a47iUYYy9r4Gld--aKRcuOtzA435lgT", "token_secret": "Polw2gf52M4Jxbez7Ozv3uO52ps" }
